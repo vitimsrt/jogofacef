@@ -1,5 +1,5 @@
 📘 Descrição do Projeto
-Matador de bixo é um jogo 2D inspirado em outros de tiro, desenvolvido utilizando a engine Construct 3.
+Matador de bixo é um jogo 2D desenvolvido utilizando a engine Construct 3.
 
 🌐 Acesse o Jogo Online
 https://www.construct.net/en/free-online-games/matador-bixo-76037/play
