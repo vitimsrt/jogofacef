@@ -13,7 +13,11 @@ https://www.construct.net/en/free-online-games/matador-bixo-76037/play
 
 
 Prints dos Sprites
-
+![Image](https://github.com/user-attachments/assets/097221d0-c192-4de7-86cb-80910927f207)
+![Image](https://github.com/user-attachments/assets/e7532a85-3c84-43ba-ac1f-1b2e6a3ab74f)
+![Image](https://github.com/user-attachments/assets/fa7f000a-2c2b-45fb-9b94-61d30c9d1a90)
+![Image](https://github.com/user-attachments/assets/099b6761-80bc-41a8-85df-5050386efc7e)
+![Image](https://github.com/user-attachments/assets/d0401df7-8599-49ce-9cab-e9f22f0f5fb8)
 
 🧩 Tecnologias Utilizadas
 HTML5, CSS3, JavaScript
